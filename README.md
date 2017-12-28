@@ -5,11 +5,11 @@
     一：引用jquery-carousel.0.1.js
     二：在页面中创建轮播插件
     <script>
-    $("#main").myCarousel({
-    className:"#main",		/*必填属性，其它属性可选填*/
-    margin:"50px 0 0 0",
-    backgroundImgs:[{img:'img\/t1.jpg'},{img:'img\/t2.jpg'},{img:'img\/t3.jpg'},{img:'img\/t4.jpg'},{img:'img\/t5.jpg'}]
-    });
+        $("#main").myCarousel({
+            className:"#main",		/*必填属性，其它属性可选填*/
+            margin:"50px 0 0 0",
+            backgroundImgs:[{img:'img\/t1.jpg'},{img:'img\/t2.jpg'},{img:'img\/t3.jpg'},{img:'img\/t4.jpg'},{img:'img\/t5.jpg'}]
+        });
     </script>
 
 
